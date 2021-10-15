@@ -148,20 +148,4 @@ answer the following question
 - Which instruction(s) correspond to line 12 in `main.c`?
 - Which assembly instruction causes "segmentational fault"? Why?
 
-==========
-Exercise 2 -- More C Pointer exercise
------
-
-Please complete the code as instructed in `exercise2.c`
-
-==========
-Exercise 3 -- More Pointer exercise
------
-
-Please complete the code as instructed in `exercise3.c`
-
-==========
-Exercise 4 -- The last C exercise, unless you want more
------
-Please answer the qustions and complete the code as instructed in `exercise4.c`
 
